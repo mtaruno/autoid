@@ -1,0 +1,7 @@
+matplotlib
+numpy
+Pillow
+streamlit
+pytesseract
+opencv-contrib-python-headless
+textblob
